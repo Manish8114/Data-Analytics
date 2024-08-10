@@ -19,6 +19,7 @@ Create a bar chart and a line chart using Matplotlib to visualize data from a Pa
 
 
 **Data Analytics Internship Task 4**
+
 Main Flow Services and Technologies Pvt. Ltd.
 TASK 4
 Exploratory Data Analysis
@@ -30,6 +31,7 @@ Responsibility:
 Create visualizations to understand the  distribution of variables, identify outliers, and check for correlations between variables.
 
 **Data Analytics Internship Task 5**
+
 Heart Disease Data Analysis Project 
 Main Flow Services and Technologies Pvt. Ltd. 
 TASK5: Feature Engineering and Selection
